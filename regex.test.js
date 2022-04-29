@@ -6,8 +6,10 @@
 characters (no numbers and symbols) and it should end with capital A else return false */
 
 function capitalA(s){
-    // Add your logic.
-    return;
+    // if (s == /$A/i )
+    // return true;
+    // else return false;
+
 }
 
 
